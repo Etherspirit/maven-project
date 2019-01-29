@@ -4,7 +4,7 @@
 package com.example;
 
 /**
- * This is a class. 
+ * This is a class.
  */
 public class Greeter {
    /**
@@ -14,7 +14,7 @@ public class Greeter {
 
   }
   /**
-   * @param someone name of a person 
+   * @param someone name of a person
    * @return greeting string
    */
   public final String greet(final String someone) {
